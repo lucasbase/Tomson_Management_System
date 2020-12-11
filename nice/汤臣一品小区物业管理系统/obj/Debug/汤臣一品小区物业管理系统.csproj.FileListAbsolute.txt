@@ -1,0 +1,155 @@
+C:\Users\dell\source\repos\nice\汤臣一品小区物业管理系统\bin\Debug\汤臣一品小区物业管理系统.exe.config
+C:\Users\dell\source\repos\nice\汤臣一品小区物业管理系统\bin\Debug\汤臣一品小区物业管理系统.exe
+C:\Users\dell\source\repos\nice\汤臣一品小区物业管理系统\bin\Debug\汤臣一品小区物业管理系统.pdb
+C:\Users\dell\source\repos\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Form1.resources
+C:\Users\dell\source\repos\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Properties.Resources.resources
+C:\Users\dell\source\repos\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.WangJi.resources
+C:\Users\dell\source\repos\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.WatermarkTextBox.resources
+C:\Users\dell\source\repos\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.XiuGai.resources
+C:\Users\dell\source\repos\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.ZhuCe.resources
+C:\Users\dell\source\repos\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.exe
+C:\Users\dell\source\repos\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.pdb
+C:\Users\dell\source\repos\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Main.resources
+C:\Users\dell\source\repos\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Building_add.resources
+C:\Users\dell\source\repos\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.User_Control.resources
+C:\Users\dell\source\repos\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.csproj.CopyComplete
+C:\Users\dell\source\repos\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Repairs.resources
+C:\Users\dell\source\repos\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Repair_application.resources
+C:\Users\dell\source\repos\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Staff_Management.resources
+C:\Users\dell\source\repos\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.csproj.ResolveComReference.cache
+C:\Users\dell\Source\Repos\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Complain.resources
+C:\Users\dell\Source\Repos\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Complaint_Interface.resources
+C:\Users\dell\Source\Repos\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.StopCar.resources
+C:\Users\dell\Source\Repos\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Staff_Revamp.resources
+C:\Users\dell\Source\Repos\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Charge.resources
+C:\Users\dell\Source\Repos\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Charge_Add.resources
+C:\Users\dell\Source\Repos\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Update.resources
+C:\Users\dell\Source\Repos\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Owner_Management.resources
+E:\SQL HMWK\nice\汤臣一品小区物业管理系统\bin\Debug\汤臣一品小区物业管理系统.exe.config
+E:\SQL HMWK\nice\汤臣一品小区物业管理系统\bin\Debug\汤臣一品小区物业管理系统.exe
+E:\SQL HMWK\nice\汤臣一品小区物业管理系统\bin\Debug\汤臣一品小区物业管理系统.pdb
+E:\SQL HMWK\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.csprojAssemblyReference.cache
+E:\SQL HMWK\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.csproj.ResolveComReference.cache
+E:\SQL HMWK\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Building_add.resources
+E:\SQL HMWK\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Charge.resources
+E:\SQL HMWK\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Charge_Add.resources
+E:\SQL HMWK\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Complain.resources
+E:\SQL HMWK\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Complaint_Interface.resources
+E:\SQL HMWK\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Form1.resources
+E:\SQL HMWK\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Owner_Management.resources
+E:\SQL HMWK\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Staff_Revamp.resources
+E:\SQL HMWK\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Main.resources
+E:\SQL HMWK\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Properties.Resources.resources
+E:\SQL HMWK\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Repairs.resources
+E:\SQL HMWK\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Repair_application.resources
+E:\SQL HMWK\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Staff_Management.resources
+E:\SQL HMWK\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.StopCar.resources
+E:\SQL HMWK\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Update.resources
+E:\SQL HMWK\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.User_Control.resources
+E:\SQL HMWK\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.WangJi.resources
+E:\SQL HMWK\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.WatermarkTextBox.resources
+E:\SQL HMWK\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.XiuGai.resources
+E:\SQL HMWK\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.ZhuCe.resources
+E:\SQL HMWK\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.csproj.GenerateResource.cache
+E:\SQL HMWK\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.csproj.CoreCompileInputs.cache
+E:\SQL HMWK\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.csproj.CopyComplete
+E:\SQL HMWK\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.exe
+E:\SQL HMWK\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.pdb
+E:\SQL HMWK\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\bin\Debug\汤臣一品小区物业管理系统.exe.config
+E:\SQL HMWK\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\bin\Debug\汤臣一品小区物业管理系统.exe
+E:\SQL HMWK\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\bin\Debug\汤臣一品小区物业管理系统.pdb
+E:\SQL HMWK\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.csprojAssemblyReference.cache
+E:\SQL HMWK\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.csproj.ResolveComReference.cache
+E:\SQL HMWK\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Building_add.resources
+E:\SQL HMWK\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Charge.resources
+E:\SQL HMWK\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Charge_Add.resources
+E:\SQL HMWK\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Complain.resources
+E:\SQL HMWK\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Complaint_Interface.resources
+E:\SQL HMWK\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Form1.resources
+E:\SQL HMWK\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Owner_Management.resources
+E:\SQL HMWK\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Staff_Revamp.resources
+E:\SQL HMWK\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Main.resources
+E:\SQL HMWK\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Properties.Resources.resources
+E:\SQL HMWK\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Repairs.resources
+E:\SQL HMWK\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Repair_application.resources
+E:\SQL HMWK\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Staff_Management.resources
+E:\SQL HMWK\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.StopCar.resources
+E:\SQL HMWK\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Update.resources
+E:\SQL HMWK\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.User_Control.resources
+E:\SQL HMWK\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.WangJi.resources
+E:\SQL HMWK\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.WatermarkTextBox.resources
+E:\SQL HMWK\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.XiuGai.resources
+E:\SQL HMWK\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.ZhuCe.resources
+E:\SQL HMWK\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.csproj.GenerateResource.cache
+E:\SQL HMWK\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.csproj.CoreCompileInputs.cache
+E:\SQL HMWK\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.csproj.CopyComplete
+E:\SQL HMWK\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.exe
+E:\SQL HMWK\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.pdb
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\bin\Debug\汤臣一品小区物业管理系统.exe.config
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\bin\Debug\汤臣一品小区物业管理系统.exe
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\bin\Debug\汤臣一品小区物业管理系统.pdb
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.csprojAssemblyReference.cache
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.csproj.ResolveComReference.cache
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Building_add.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Charge.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Charge_Add.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Complain.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Complaint_Interface.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Form1.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Owner_Management.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Staff_Revamp.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Main.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Properties.Resources.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Repairs.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Repair_application.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Staff_Management.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.StopCar.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Update.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.User_Control.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.WangJi.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.WatermarkTextBox.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.XiuGai.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.ZhuCe.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.csproj.GenerateResource.cache
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.csproj.CoreCompileInputs.cache
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.csproj.CopyComplete
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.exe
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.pdb
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Owner_User_Interface.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\bin\Debug\汤臣一品小区物业管理系统.exe.config
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\bin\Debug\汤臣一品小区物业管理系统.exe
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\bin\Debug\汤臣一品小区物业管理系统.pdb
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.csprojAssemblyReference.cache
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.csproj.ResolveComReference.cache
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Building_add.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Charge.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Complain.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Complaint_Interface.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Form1.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Owner_Management.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Owner_User_Interface.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Staff_Revamp.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Main.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Properties.Resources.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Repairs.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Repair_application.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.StopCar.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Update.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.User_Control.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.WangJi.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.WatermarkTextBox.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.XiuGai.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.ZhuCe.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.csproj.GenerateResource.cache
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.csproj.CoreCompileInputs.cache
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.csproj.CopyComplete
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.exe
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.pdb
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Staff_Management.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Truck_space.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Add__parking_Space.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Super_Admin.resources
+E:\卓越项目\小黑屋工作室—汤臣一品小区物业管理系统\小黑屋工作室—汤臣一品小区物业管理系统\nice\汤臣一品小区物业管理系统\obj\Debug\汤臣一品小区物业管理系统.Admin_add.resources
